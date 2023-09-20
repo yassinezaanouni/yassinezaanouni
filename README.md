@@ -6,7 +6,7 @@ Full Stack Developper
 
 With a focus on delivering high-quality work and unique, profitable digital solutions through custom websites and apps. I am dedicated to helping businesses succeed. Let's work together to make your vision a success.
 
-* 🖥️  See my portfolio at [yassine-zaanouni-portfolio.vercel.app/](http://yassine-zaanouni-portfolio.vercel.app/)
+[//]: * 🖥️  See my portfolio at [yassine-zaanouni-portfolio.vercel.app/](http://yassine-zaanouni-portfolio.vercel.app/)
 * ✉️  You can contact me at [yassinezaanouni@gmail.com](mailto:yassinezaanouni@gmail.com)
 * 🚀  I'm currently working on [Velocity | Cognitive Training for Athletes](http://www.artofvelocity.com/)
 
