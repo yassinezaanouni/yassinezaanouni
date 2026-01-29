@@ -27,6 +27,7 @@
 
 ## Open Source
 
+- **[Mainline](https://github.com/shadcnblocks/mainline-nextjs-template)** - Next.js website template with 250+ stars
 - **[railway-screenshot-api](https://github.com/yassinezaanouni/railway-screenshot-api)** - High-performance screenshot API with browser pooling and batch processing
 - **ghostty** - Ghostty terminal manager for Raycast; browse projects, manage workspaces
 - **[vsc-ext-coding-time-tracker](https://github.com/twentyTwo/vsc-ext-coding-time-tracker)** - VS Code extension for tracking and visualizing coding time
