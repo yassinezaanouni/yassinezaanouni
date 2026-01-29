@@ -191,7 +191,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 - Building in public — Documenting the journey of shipping SaaS products on [X](https://x.com/YassineZaanouni)
 - Rapid prototyping — Full apps in days, not months
-- Digital nomad — Building remotely from wherever the wifi works
+- Digital nomad — Building remotely, anywhere
 - Growing Zaanix Studio — Helping startups ship modern web apps faster
 
 ---
