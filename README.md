@@ -61,13 +61,13 @@ Building products and shipping fast. Currently focused on video tech and develop
 - Tab Website - Tab website
 - Tripply Web - Travel platform
 - [Blast.meme](https://blast.meme/) - Crypto meme coin launchpad
-- Flitter Sales App - Sales application
-- FlitterUI - UI component library
-- Forest Admin - Admin dashboard
+- [Flitter Sales App](https://flitter.fr/) - Sales application
+- [FlitterUI](https://flitter.fr/) - UI component library
+- [Forest Admin](https://flitter.fr/) - Admin dashboard
 - [Harmonie](https://flitter.fr/) - Harmonie platform
-- NessUI - UI library
+- [NessUI](https://flitter.fr/) - UI library
 - [Quote](https://flitter.fr/) - Quote generator
-- Strapi CMS - Content management
+- [Strapi CMS](https://flitter.fr/) - Content management
 - [Charter](https://charter-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
 - Echo - Website template (Next.js)
 - [Hive](https://hive-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
