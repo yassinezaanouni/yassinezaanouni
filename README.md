@@ -1,6 +1,6 @@
 # Hi, I'm Yassine
 
-Tunisia -> Remote | SaaS Builder | Running Zaanix Studio
+Remote | SaaS Builder | Running Zaanix Studio
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -190,7 +190,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 - Building in public — Documenting the journey of shipping SaaS products on [X](https://x.com/YassineZaanouni)
 - Rapid prototyping — Full apps in days, not months
-- Digital nomad — Building remotely from Tunisia and wherever the wifi works
+- Digital nomad — Building remotely from wherever the wifi works
 - Growing Zaanix Studio — Helping startups ship modern web apps faster
 
 ---
