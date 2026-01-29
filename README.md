@@ -19,10 +19,10 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Current Projects
 
-- [Reelfolio](https://reelfolio.io) - Video portfolio platform for creatives to generate showreels and case study videos with Remotion ([repo](https://github.com/yassinezaanouni/reelfolio-remotion))
+- [Reelfolio](https://reelfolio.io) - Video portfolio platform for creatives to generate showreels and case study videos with Remotion
 - [Addcn](https://addcn.dev) - Platform for creating and serving custom shadcn/ui registry components. Install with `npx shadcn@latest add` ([open source](https://github.com/yassinezaanouni/addcn))
-- [XScout](https://github.com/yassinezaanouni/xscout) - Twitter/X reply workstation for monitoring and managing tweet replies ([open source](https://github.com/yassinezaanouni/xscout))
-- [Sharik](https://github.com/yassinezaanouni/sharik) - Turborepo monorepo starter with Tailwind CSS v4, shared design system, and React components ([open source](https://github.com/yassinezaanouni/sharik))
+- XScout - Twitter/X reply workstation for monitoring and managing tweet replies
+- Sharik - Turborepo monorepo starter with Tailwind CSS v4, shared design system, and React components
 
 ---
 
@@ -123,17 +123,17 @@ Building products and shipping fast. Currently focused on video tech and develop
 - [rich-editor-ch-ext](https://github.com/yassinezaanouni/rich-editor-ch-ext) - Alternative rich editor extension
 - [next-resume-ai](https://github.com/Kiranism/next-resume-ai) - Modern resume builder with multiple templates
 - [resume-fast](https://github.com/yassinezaanouni/resume-fast) - Fast resume builder application
-- [apple-iphone15](https://github.com/yassinezaanouni/apple-iphone15) - iPhone 15 product showcase
+- apple-iphone15 - iPhone 15 product showcase
 - [apple-iphone16](https://github.com/yassinezaanouni/apple-iphone16) - iPhone 16 product showcase
-- [shadcn-landing](https://github.com/yassinezaanouni/ui-shadcnlanding) - Landing page using shadcn/ui
+- shadcn-landing - Landing page using shadcn/ui
 - [themes-view-transitions](https://github.com/yassinezaanouni/themes-view-transitions) - View Transitions API theme showcase
-- [ui-shadcnlanding](https://github.com/yassinezaanouni/ui-shadcnlanding) - UI landing page with view transitions
+- ui-shadcnlanding - UI landing page with view transitions
 - shadcn-baseui-starter-project - shadcn/ui with Base UI starter
 - test-app-shadcn - Testing playground for shadcn/ui
-- [buisness-map](https://github.com/yassinezaanouni/buisness-map) - Business mapping application
-- [social-video-downloader](https://github.com/yassinezaanouni/social-video-downloader) - Social media video downloading tool
-- [review-image-canvas-craft](https://github.com/yassinezaanouni/review-image-canvas-craft) - Image review and canvas manipulation tool
-- [my-ui](https://github.com/yassinezaanouni/my-ui) - Micro-animations UI project
+- buisness-map - Business mapping application
+- social-video-downloader - Social media video downloading tool
+- review-image-canvas-craft - Image review and canvas manipulation tool
+- my-ui - Micro-animations UI project
 - [template-next-app-dir](https://github.com/remotion-dev/template-next-app-dir) - Next.js template for Remotion
 
 ---
