@@ -23,10 +23,10 @@ Building products and shipping fast. Currently focused on video tech and develop
 - Fintech payment platform at a major Saudi Arabian company (NestJS, PostgreSQL, microservices)
 
 **Innovant Studio**
-- [Carthage Sky](https://gitlab.com/carthage-sky/frontend) - Luxury aircraft maintenance and VIP flight services website
-- [WH International](https://gitlab.com/wh-international/frontend) - Corporate website for trading and logistics company
-- [Samar Innovant](https://gitlab.com/samar-innovant/website) - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
-- [Donors](https://gitlab.com/wh-js/donors) - Donor management system
+- [Carthage Sky](https://carthage-sky.vercel.app/) - Luxury aircraft maintenance and VIP flight services website
+- WH International - Corporate website for trading and logistics company
+- Samar Innovant - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
+- Donors - Donor management system
 - DrNahas - Dr. Nahas medical project
 - Journey - Arabic content platform for audiobooks, e-books, and podcasts
 - Mustanad - Legal marketplace connecting lawyers with clients
