@@ -207,8 +207,7 @@
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YassineZaanouni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassinezaanouni/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white)](https://yassinezaanouni.com)
-[![Zaanix Studio](https://img.shields.io/badge/Zaanix_Studio-FF6B6B?style=for-the-badge&logoColor=white)](https://zaanix.studio/)
+[![Zaanix Studio](https://img.shields.io/badge/Zaanix_Studio-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://zaanix.studio/)
 
 ---
 
