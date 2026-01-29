@@ -26,40 +26,6 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ---
 
-## Work Experience
-
-**MisPay**
-- Fintech payment platform at a major Saudi Arabian company
-
-**Velocity**
-- Athlete cognitive training app (React Native)
-- joystick - Joystick control implementation
-- phone-controller - Phone controller interface
-- p2p - Peer-to-peer communication
-- webrtc-without-signaling-server - WebRTC P2P implementation
-- tizen-phone - Samsung Tizen phone project
-- my-expo-app - Expo React Native application
-- Velocity-App-V2 - React Native mobile app with iOS and Android support
-- Velocity-React-Native - React Native Velocity implementation
-- A-Frame Test 1 - A-Frame VR/WebXR experimentation
-- [aframe-mouse-dragndrop](https://github.com/extraymond/aframe-mouse-dragndrop) - A-Frame component for mouse drag-and-drop
-- [aframe-react](https://github.com/yassinezaanouni/aframe-react) - React + Vite project with A-Frame integration
-- aframe-rive - A-Frame with Rive animation integration
-- learn-aframe - A-Frame learning experiments
-- aframe-jase - A-Frame project
-- aframe-projects - A-Frame projects collection
-
-**Innovant Studio**
-- [Carthage Sky](https://carthage-sky.vercel.app/) - Luxury aircraft maintenance and VIP flight services website
-- WH International - Corporate website for trading and logistics company
-- Samar Innovant - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
-- Donors - Donor management system
-- DrNahas - Dr. Nahas medical project
-- Journey - Arabic content platform for audiobooks, e-books, and podcasts
-- Mustanad - Legal marketplace connecting lawyers with clients
-
----
-
 ## Open Source
 
 - [railway-screenshot-api](https://github.com/yassinezaanouni/railway-screenshot-api) - High-performance screenshot API with browser pooling and batch processing
@@ -180,6 +146,40 @@ Building products and shipping fast. Currently focused on video tech and develop
 - WebApplication1 - C# web application
 - Data Science - Data science coursework
 - Prolog - Logic programming projects
+
+---
+
+## Work Experience
+
+**MisPay**
+- Fintech payment platform at a major Saudi Arabian company
+
+**Velocity**
+- Athlete cognitive training app (React Native)
+- joystick - Joystick control implementation
+- phone-controller - Phone controller interface
+- p2p - Peer-to-peer communication
+- webrtc-without-signaling-server - WebRTC P2P implementation
+- tizen-phone - Samsung Tizen phone project
+- my-expo-app - Expo React Native application
+- Velocity-App-V2 - React Native mobile app with iOS and Android support
+- Velocity-React-Native - React Native Velocity implementation
+- A-Frame Test 1 - A-Frame VR/WebXR experimentation
+- [aframe-mouse-dragndrop](https://github.com/extraymond/aframe-mouse-dragndrop) - A-Frame component for mouse drag-and-drop
+- [aframe-react](https://github.com/yassinezaanouni/aframe-react) - React + Vite project with A-Frame integration
+- aframe-rive - A-Frame with Rive animation integration
+- learn-aframe - A-Frame learning experiments
+- aframe-jase - A-Frame project
+- aframe-projects - A-Frame projects collection
+
+**Innovant Studio**
+- [Carthage Sky](https://carthage-sky.vercel.app/) - Luxury aircraft maintenance and VIP flight services website
+- WH International - Corporate website for trading and logistics company
+- Samar Innovant - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
+- Donors - Donor management system
+- DrNahas - Dr. Nahas medical project
+- Journey - Arabic content platform for audiobooks, e-books, and podcasts
+- Mustanad - Legal marketplace connecting lawyers with clients
 
 ---
 
