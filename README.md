@@ -43,6 +43,8 @@ Building products and shipping fast. Currently focused on video tech and develop
 - [Samar Innovant](https://gitlab.com/samar-innovant/website) - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
 - [Donors](https://gitlab.com/wh-js/donors) - Donor management system
 - DrNahas - Dr. Nahas medical project
+- Journey - Arabic content platform for audiobooks, e-books, and podcasts
+- Mustanad - Legal marketplace connecting lawyers with clients
 
 ---
 
@@ -82,9 +84,6 @@ Building products and shipping fast. Currently focused on video tech and develop
 - ShadcnBlocks Library - Extended block library
 - Emergency Dental - Dental services website
 - [Switch Accounting](https://www.switchaccounting.com.au/) - Accounting platform
-- Journey - Arabic content platform for audiobooks, e-books, and podcasts
-- Mustanad - Legal marketplace connecting lawyers with clients
-- lata9la9 - Food delivery/ordering platform
 - food-management - Food management system
 - hugging-trade - Trading platform with Prisma, Clerk, Stripe
 - [Swiss Photo Club](https://swissphotoclub.com/) - Photography club website
