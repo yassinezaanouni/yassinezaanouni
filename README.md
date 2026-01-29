@@ -54,8 +54,8 @@ Building products and shipping fast. Currently focused on video tech and develop
 - Unisat Wallet - Wallet development
 - [Diced Dioramas](https://diceddioramas.com/) - Diced app frontend
 - Dream Space - Dream space platform
-- Friday Website 2.0 - Friday website redesign
-- Lightning Bolt - Lightning bolt project
+- [Friday Website 2.0](https://fridaytechnologies.com.au/) - Friday website redesign
+- [Lightning Bolt](https://lightningboltpodcast.com/) - Lightning bolt project
 - Micro Sites - Micro sites generator
 - Newsletter - Newsletter system
 - Tab Website - Tab website
@@ -69,7 +69,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 - [Quote](https://flitter.fr/) - Quote generator
 - [Strapi CMS](https://flitter.fr/) - Content management
 - [Charter](https://charter-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
-- Echo - Website template (Next.js)
+- [Echo](https://echo-nextjs-template.vercel.app/) - Website template (Next.js)
 - [Hive](https://hive-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
 - [Lumen](https://lumen-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
 - [Mainline](https://mainline-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
@@ -92,7 +92,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 - seemas-test - Testing platform
 - vitaliy - Slider component
 - Plasma Docs - Plasma documentation
-- Facebook Marketplace Nationwide - Facebook Marketplace integration
+- [Facebook Marketplace Nationwide](https://flipscoutly.com/) - Facebook Marketplace integration
 
 ---
 
