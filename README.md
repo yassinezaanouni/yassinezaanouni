@@ -28,34 +28,23 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Work Experience
 
-**MisPay**
-- Fintech payment platform at a major Saudi Arabian company (NestJS, PostgreSQL, microservices)
+**MisPay** · Frontend Engineer · Saudi Arabia · Nov 2024 – Present
+- Merchant panel serving 2,000+ merchants & 200K+ users. Built design system with 50+ components.
 
-**Innovant Studio**
-- [Carthage Sky](https://carthage-sky.vercel.app/) - Luxury aircraft maintenance and VIP flight services website
-- WH International - Corporate website for trading and logistics company
-- Samar Innovant - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
-- Donors - Donor management system
-- DrNahas - Dr. Nahas medical project
-- Journey - Arabic content platform for audiobooks, e-books, and podcasts
-- Mustanad - Legal marketplace connecting lawyers with clients
+**Velocity** · Software Engineer · United States · May 2023 – June 2024
+- Athlete cognitive training app (React Native). 90% test coverage, 20+ custom animations.
 
-**Velocity**
-- joystick - Joystick control implementation
-- phone-controller - Phone controller interface
-- p2p - Peer-to-peer communication
-- webrtc-without-signaling-server - WebRTC P2P implementation
-- tizen-phone - Samsung Tizen phone project
-- my-expo-app - Expo React Native application
-- Velocity-App-V2 - React Native mobile app with iOS and Android support
-- Velocity-React-Native - React Native Velocity implementation
-- A-Frame Test 1 - A-Frame VR/WebXR experimentation
-- [aframe-mouse-dragndrop](https://github.com/extraymond/aframe-mouse-dragndrop) - A-Frame component for mouse drag-and-drop
-- [aframe-react](https://github.com/yassinezaanouni/aframe-react) - React + Vite project with A-Frame integration
-- aframe-rive - A-Frame with Rive animation integration
-- learn-aframe - A-Frame learning experiments
-- aframe-jase - A-Frame project
-- aframe-projects - A-Frame projects collection
+**Innovant Studio** · Full Stack Developer · Tunisia · Feb 2022 – May 2023
+- [Carthage Sky](https://carthage-sky.vercel.app/) - Luxury aircraft services
+- WH International, Samar Innovant, Donors, DrNahas, Journey, Mustanad
+
+---
+
+## Education
+
+- **Master's in Software Engineering** · ISSAT Sousse · 2022 – 2025
+- **Bachelor's in Software Engineering** (Laureate) · ESSTHS · 2019 – 2022
+- **CS50x** · Harvard University (edX)
 
 ---
 
