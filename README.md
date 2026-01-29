@@ -22,7 +22,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 - [Reelfolio](https://reelfolio.io) - Turn screenshots and clips into professional video portfolios. Upload, pick a template, export as MP4. Built with Remotion.
 - [Addcn](https://addcn.dev) - Build and share your own shadcn registry. Turn React components into installable packages with `npx shadcn@latest add`. ([open source](https://github.com/yassinezaanouni/addcn))
 - XScout - Twitter/X reply workstation. Monitor mentions, manage replies, and engage with your audience from one dashboard.
-- Sharik - Turborepo monorepo starter with Tailwind CSS v4, shared design system, and UI components. Ready for production.
+- Sharik - Turborepo monorepo starter with Next.js, NestJS, React Native, Tailwind CSS v4, and shared design system.
 - [ShadcnBlocks](https://www.shadcnblocks.com/) - Building templates for the biggest shadcn & Tailwind CSS component library.
 
 ---
