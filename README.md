@@ -29,10 +29,10 @@ Building products and shipping fast. Currently focused on video tech and develop
 ## Work Experience
 
 **MisPay**
-- Fintech payment platform in Saudi Arabia. Built merchant panel serving 2,000+ merchants & 200K+ users, along with a design system of 50+ components.
+- Fintech payment platform at a major Saudi Arabian company
 
 **Velocity**
-- Athlete cognitive training app (React Native). 90% test coverage, 20+ custom animations.
+- Athlete cognitive training app (React Native)
 - joystick - Joystick control implementation
 - phone-controller - Phone controller interface
 - p2p - Peer-to-peer communication
@@ -108,7 +108,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 - food-management - Food management system
 - [hugging-trade](https://www.huggingtrade.com/) - Trading platform with Prisma, Clerk, Stripe
 - [Swiss Photo Club](https://swissphotoclub.com/) - Photography club website
-- [Elevate AB](https://elevateab.app/) - ABTester platform
+- [Elevate AB](https://www.elevateab.com/) - ABTester platform
 - seemas-test - Testing platform
 - vitaliy - Slider component
 - Plasma Docs - Plasma documentation
