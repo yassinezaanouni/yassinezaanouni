@@ -39,8 +39,6 @@
 
 - **[Innovatr](https://www.innovatr.io/)** - Innovation platform
 - **Gift Rolodex** - Gift management app
-- **Rabby Wallet** - Wallet development
-- **Unisat Wallet** - Wallet development
 - **[Diced Dioramas](https://diceddioramas.com/)** - Diced app frontend
 - **Dream Space** - Dream space platform
 - **[Friday Website 2.0](https://fridaytechnologies.com.au/)** - Friday website redesign
@@ -148,9 +146,11 @@
 ## Work Experience
 
 **MisPay**
+
 - Fintech payment platform at a major Saudi Arabian company
 
 **Velocity**
+
 - Athlete cognitive training app (React Native)
 - **joystick** - Joystick control implementation
 - **phone-controller** - Phone controller interface
@@ -168,6 +168,7 @@
 - **aframe-projects** - A-Frame projects collection
 
 **Innovant Studio**
+
 - **[Carthage Sky](https://carthage-sky.vercel.app/)** - Luxury aircraft maintenance and VIP flight services website
 - **WH International** - Corporate website for trading and logistics company
 - **Samar Innovant** - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
@@ -197,7 +198,7 @@
 
 ## Latest Blog Posts
 
-*Coming soon...*
+_Coming soon..._
 
 ---
 
