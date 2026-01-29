@@ -85,7 +85,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 - Emergency Dental - Dental services website
 - [Switch Accounting](https://www.switchaccounting.com.au/) - Accounting platform
 - food-management - Food management system
-- hugging-trade - Trading platform with Prisma, Clerk, Stripe
+- [hugging-trade](https://www.huggingtrade.com/) - Trading platform with Prisma, Clerk, Stripe
 - [Swiss Photo Club](https://swissphotoclub.com/) - Photography club website
 - [Elevate AB](https://elevateab.app/) - ABTester platform
 - seemas-test - Testing platform
@@ -116,18 +116,16 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ---
 
-## Mobile Apps
+## Velocity Projects
 
-- [Hotelna](https://github.com/heithemkacem/hotelna) - Hotel booking mobile app (Expo/React Native)
-- [Locasa](https://github.com/heithemkacem/locasa) - Casa rental mobile app (Expo)
+- joystick - Joystick control implementation
+- phone-controller - Phone controller interface
+- p2p - Peer-to-peer communication
+- webrtc-without-signaling-server - WebRTC P2P implementation
+- tizen-phone - Samsung Tizen phone project
 - my-expo-app - Expo React Native application
 - Velocity-App-V2 - React Native mobile app with iOS and Android support
 - Velocity-React-Native - React Native Velocity implementation
-
----
-
-## WebXR & 3D (A-Frame)
-
 - A-Frame Test 1 - A-Frame VR/WebXR experimentation
 - [aframe-mouse-dragndrop](https://github.com/extraymond/aframe-mouse-dragndrop) - A-Frame component for mouse drag-and-drop
 - [aframe-react](https://github.com/yassinezaanouni/aframe-react) - React + Vite project with A-Frame integration
@@ -138,21 +136,9 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ---
 
-## Velocity Projects
-
-- joystick - Joystick control implementation
-- phone-controller - Phone controller interface
-- p2p - Peer-to-peer communication
-- webrtc-without-signaling-server - WebRTC P2P implementation
-- tizen-phone - Samsung Tizen phone project
-
----
-
 ## Portfolios
 
-- [yassine-zaanouni-portfolio](https://github.com/YassineZn/yassine-zaanouni-portfolio) - Portfolio website v1
-- [yassine-zaanouni-portfolio-v1](https://github.com/yassinezaanouni/yassine-zaanouni-portfolio-v1) - Portfolio v1 iteration
-- yassine-zaanouni-portfolio-v2 - Portfolio website v2
+- [yassinezaanouni.com](https://yassinezaanouni.com) - Portfolio website
 
 ---
 
