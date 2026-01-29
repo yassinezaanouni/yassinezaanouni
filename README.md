@@ -23,6 +23,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 - [Addcn](https://addcn.dev) - Build and share your own shadcn registry. Turn React components into installable packages with `npx shadcn@latest add`. ([open source](https://github.com/yassinezaanouni/addcn))
 - XScout - Twitter/X reply workstation. Monitor mentions, manage replies, and engage with your audience from one dashboard.
 - Sharik - Turborepo monorepo starter with Tailwind CSS v4, shared design system, and UI components. Ready for production.
+- [ShadcnBlocks](https://www.shadcnblocks.com/) - Building templates for the biggest shadcn & Tailwind CSS component library.
 
 ---
 
@@ -189,10 +190,10 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## What I'm Doing
 
-- Building in public — Documenting the journey of shipping SaaS products on [X](https://x.com/YassineZaanouni)
-- Rapid prototyping — Full apps in days, not months
-- Digital nomad — Building remotely, anywhere
-- Growing Zaanix Studio — Helping startups ship modern web apps faster
+- **Building in public** - Documenting the journey of shipping SaaS products on [X](https://x.com/YassineZaanouni)
+- **Rapid prototyping** - Full apps in days, not months
+- **Digital nomad** - Building remotely, anywhere
+- **Growing Zaanix Studio** - Helping startups ship modern web apps faster
 
 ---
 
