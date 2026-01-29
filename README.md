@@ -105,13 +105,14 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Portfolios
 
+- [zaanix.studio](https://zaanix.studio/) - Zaanix Studio website
 - [yassinezaanouni.com](https://yassinezaanouni.com) - Portfolio website
 
 ---
 
 ## Hackathon
 
-- hackthgate-1st-hackathon-chat-with-youtube - Chat with YouTube content
+- hackthgate-1st-hackathon-chat-with-youtube - 2nd place at an AI hackathon in the early days of LLMs. Built a chat interface for YouTube content.
 
 ---
 
