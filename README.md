@@ -13,8 +13,6 @@
 ![CLI](https://img.shields.io/badge/CLI-000000?style=flat&logo=windowsterminal&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-"Ship beats perfect" - I build tools to solve my own problems, then share them with the world.
-
 ---
 
 ## Current Projects
@@ -211,4 +209,6 @@
 
 ---
 
-*"Turning ideas into shipped products, one commit at a time."*
+## Philosophy
+
+"Ship beats perfect" — I build tools to solve my own problems, then ship them. AI changes the how. The why is still ours.
