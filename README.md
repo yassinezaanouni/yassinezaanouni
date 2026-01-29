@@ -182,18 +182,6 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ---
 
-## Zaanix
-
-- people - People/team management project
-
----
-
-## Legacy
-
-- bbt-lighting - BBT Lighting project (GitLab-old)
-
----
-
 ## Connect
 
 [Twitter](YOUR_TWITTER_URL) | [LinkedIn](YOUR_LINKEDIN_URL) | [Website](YOUR_WEBSITE_URL) | [Zaanix Studio](YOUR_ZAANIX_URL)
