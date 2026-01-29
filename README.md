@@ -210,4 +210,4 @@
 
 ## Philosophy
 
-"Ship beats perfect" — I build tools to solve my own problems, then ship them. AI changes the how. The why is still ours.
+> "Ship beats perfect" — I build tools to solve my own problems, then ship them. AI changes the how. The why is still ours.
