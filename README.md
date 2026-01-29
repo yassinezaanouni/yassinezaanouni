@@ -191,6 +191,21 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ---
 
+## What I'm Doing
+
+- Building in public — Documenting the journey of shipping SaaS products on [X](https://x.com/YassineZaanouni)
+- Rapid prototyping — Full apps in days, not months
+- Digital nomad — Building remotely from Tunisia and wherever the wifi works
+- Growing Zaanix Studio — Helping startups ship modern web apps faster
+
+---
+
+## Latest Blog Posts
+
+*Coming soon...*
+
+---
+
 ## Connect
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YassineZaanouni)
