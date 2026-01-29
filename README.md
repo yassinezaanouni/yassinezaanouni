@@ -19,10 +19,10 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Current Projects
 
-- [Reelfolio](https://reelfolio.io) - Portfolio platform for creatives to showcase projects, track deliverables, revenue, and client metrics ([repo](https://github.com/yassinezaanouni/reelfolio-remotion))
-- Addcn - Multi-user platform for creating and serving custom shadcn/ui registry components
-- [XScout](https://github.com/yassinezaanouni/xscout) - Twitter reply workstation with AI-powered filtering for managing replies
-- [Sharik](https://github.com/yassinezaanouni/sharik) - Turborepo monorepo with Tailwind CSS v4, design system, web app, and React Native mobile
+- [Reelfolio](https://reelfolio.io) - Video portfolio platform for creatives to generate showreels and case study videos with Remotion ([repo](https://github.com/yassinezaanouni/reelfolio-remotion))
+- [Addcn](https://addcn.dev) - Platform for creating and serving custom shadcn/ui registry components. Install with `npx shadcn@latest add` ([open source](https://github.com/yassinezaanouni/addcn))
+- [XScout](https://github.com/yassinezaanouni/xscout) - Twitter/X reply workstation for monitoring and managing tweet replies ([open source](https://github.com/yassinezaanouni/xscout))
+- [Sharik](https://github.com/yassinezaanouni/sharik) - Turborepo monorepo starter with Tailwind CSS v4, shared design system, and React components ([open source](https://github.com/yassinezaanouni/sharik))
 
 ---
 
