@@ -48,11 +48,11 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Freelance Work (Zaanix Studio)
 
-- Innovatr - Innovation platform
+- [Innovatr](https://www.innovatr.io/) - Innovation platform
 - Gift Rolodex - Gift management app
 - Rabby Wallet - Wallet development
 - Unisat Wallet - Wallet development
-- Diced Frontend - Diced app frontend
+- [Diced Dioramas](https://diceddioramas.com/) - Diced app frontend
 - Dream Space - Dream space platform
 - Friday Website 2.0 - Friday website redesign
 - Lightning Bolt - Lightning bolt project
@@ -60,6 +60,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 - Newsletter - Newsletter system
 - Tab Website - Tab website
 - Tripply Web - Travel platform
+- [Blast.meme](https://blast.meme/) - Crypto meme coin launchpad
 - Flitter Sales App - Sales application
 - FlitterUI - UI component library
 - Forest Admin - Admin dashboard
@@ -67,27 +68,27 @@ Building products and shipping fast. Currently focused on video tech and develop
 - NessUI - UI library
 - Quote - Quote generator
 - Strapi CMS - Content management
-- Charter - Website template (Astro & Next.js)
+- [Charter](https://charter-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
 - Echo - Website template (Next.js)
-- Hive - Website template (Astro & Next.js)
-- Lumen - Website template (Astro & Next.js)
-- Mainline - Website template (Astro & Next.js)
-- Plasma - Website template (Astro & Next.js)
-- Relative - Website template (Astro & Next.js)
-- Scalar - Website template (Astro & Next.js)
-- Sonic - Website template (Astro & Next.js)
-- Streamline - Website template (Astro & Next.js)
-- Shadcnblocks - UI block library
-- Shadcnblocks Library - Extended block library
+- [Hive](https://hive-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
+- [Lumen](https://lumen-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
+- [Mainline](https://mainline-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
+- [Plasma](https://plasma-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
+- [Relative](https://relative-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
+- [Scalar](https://scalar-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
+- [Sonic](https://sonic-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
+- [Streamline](https://streamline-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
+- [ShadcnBlocks](https://www.shadcnblocks.com/) - UI block library
+- ShadcnBlocks Library - Extended block library
 - Emergency Dental - Dental services website
-- Switchacc Website - Account switching platform
+- [Switch Accounting](https://www.switchaccounting.com.au/) - Accounting platform
 - Journey - Arabic content platform for audiobooks, e-books, and podcasts
 - Mustanad - Legal marketplace connecting lawyers with clients
 - lata9la9 - Food delivery/ordering platform
 - food-management - Food management system
 - hugging-trade - Trading platform with Prisma, Clerk, Stripe
-- swiss-photo-club - Photography club website
-- elevate - ABTester platform
+- [Swiss Photo Club](https://swissphotoclub.com/) - Photography club website
+- [Elevate AB](https://elevateab.app/) - ABTester platform
 - seemas-test - Testing platform
 - vitaliy - Slider component
 - Plasma Docs - Plasma documentation
