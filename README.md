@@ -156,7 +156,6 @@
 - **p2p** - Peer-to-peer communication
 - **webrtc-without-signaling-server** - WebRTC P2P implementation
 - **tizen-phone** - Samsung Tizen phone project
-- **my-expo-app** - Expo React Native application
 - **Velocity-App-V2** - React Native mobile app with iOS and Android support
 - **Velocity-React-Native** - React Native Velocity implementation
 - **A-Frame Test 1** - A-Frame VR/WebXR experimentation
