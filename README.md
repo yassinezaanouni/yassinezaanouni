@@ -115,7 +115,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ---
 
-## Experiments
+## Experiments & Academic
 
 - form-builder - Dynamic form builder application
 - Link-Sharing-App - URL/link sharing application
@@ -125,11 +125,6 @@ Building products and shipping fast. Currently focused on video tech and develop
 - karim-test - Testing project
 - test-for-ahmed - Testing project
 - test-use-link-status - Hook testing for link status
-
----
-
-## Personal & Academic
-
 - [glisten-ai](https://github.com/a-trost/glisten-ai) - Dark Next.js site with Prismic, GSAP animations
 - nasa-api - NASA Near-Earth Objects data visualization
 - Nasa's api - NASA API exploration
