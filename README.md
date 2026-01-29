@@ -48,13 +48,10 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Freelance Work (Zaanix Studio)
 
-**Cytric**
 - Innovatr - Innovation platform
 - Gift Rolodex - Gift management app
 - Rabby Wallet - Wallet development
 - Unisat Wallet - Wallet development
-
-**Friday**
 - Diced Frontend - Diced app frontend
 - Dream Space - Dream space platform
 - Friday Website 2.0 - Friday website redesign
@@ -63,42 +60,33 @@ Building products and shipping fast. Currently focused on video tech and develop
 - Newsletter - Newsletter system
 - Tab Website - Tab website
 - Tripply Web - Travel platform
-
-**Flitter**
 - Flitter Sales App - Sales application
 - FlitterUI - UI component library
 - Forest Admin - Admin dashboard
 - Harmonie - Harmonie platform
-- Landing - Landing pages
 - NessUI - UI library
 - Quote - Quote generator
 - Strapi CMS - Content management
-
-**Zero Static (Website Templates)**
-- Charter (Astro & Next.js)
-- Echo (Next.js)
-- Hive (Astro & Next.js)
-- Lumen (Astro & Next.js)
-- Mainline (Astro & Next.js)
-- Plasma (Astro & Next.js)
-- Relative (Astro & Next.js)
-- Scalar (Astro & Next.js)
-- Sonic (Astro & Next.js)
-- Streamline (Astro & Next.js)
+- Charter - Website template (Astro & Next.js)
+- Echo - Website template (Next.js)
+- Hive - Website template (Astro & Next.js)
+- Lumen - Website template (Astro & Next.js)
+- Mainline - Website template (Astro & Next.js)
+- Plasma - Website template (Astro & Next.js)
+- Relative - Website template (Astro & Next.js)
+- Scalar - Website template (Astro & Next.js)
+- Sonic - Website template (Astro & Next.js)
+- Streamline - Website template (Astro & Next.js)
 - Shadcnblocks - UI block library
 - Shadcnblocks Library - Extended block library
-
-**Vynlox**
 - Emergency Dental - Dental services website
 - Switchacc Website - Account switching platform
-
-**Other Clients**
 - Journey - Arabic content platform for audiobooks, e-books, and podcasts
 - Mustanad - Legal marketplace connecting lawyers with clients
 - lata9la9 - Food delivery/ordering platform
 - food-management - Food management system
 - hugging-trade - Trading platform with Prisma, Clerk, Stripe
-- swiss-photo-club - Photography club website (SPC Frontend)
+- swiss-photo-club - Photography club website
 - elevate - ABTester platform
 - seemas-test - Testing platform
 - vitaliy - Slider component
