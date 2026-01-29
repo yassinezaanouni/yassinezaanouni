@@ -28,11 +28,11 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Work Experience
 
-**MisPay** · Frontend Engineer · Saudi Arabia · Nov 2024 – Present
+**MisPay**
 - Merchant panel serving 2,000+ merchants & 200K+ users. Built design system with 50+ components.
 - Fintech payment platform at a major Saudi Arabian company (NestJS, PostgreSQL, microservices)
 
-**Velocity** · Software Engineer · United States · May 2023 – June 2024
+**Velocity**
 - Athlete cognitive training app (React Native). 90% test coverage, 20+ custom animations.
 - joystick - Joystick control implementation
 - phone-controller - Phone controller interface
@@ -50,7 +50,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 - aframe-jase - A-Frame project
 - aframe-projects - A-Frame projects collection
 
-**Innovant Studio** · Full Stack Developer · Tunisia · Feb 2022 – May 2023
+**Innovant Studio**
 - [Carthage Sky](https://carthage-sky.vercel.app/) - Luxury aircraft maintenance and VIP flight services website
 - WH International - Corporate website for trading and logistics company
 - Samar Innovant - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
@@ -61,18 +61,9 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ---
 
-## Education
-
-- **Master's in Software Engineering** · ISSAT Sousse · 2022 – 2025
-- **Bachelor's in Software Engineering** (Laureate) · ESSTHS · 2019 – 2022
-- **CS50x** · Harvard University (edX)
-
----
-
 ## Open Source
 
 - [railway-screenshot-api](https://github.com/yassinezaanouni/railway-screenshot-api) - High-performance screenshot API with browser pooling and batch processing
-- [cloudflare-screenshot-api](https://github.com/Hassanrkbiz/cloudflare-screenshot-api) - Production-ready screenshot API using Cloudflare Workers
 - ghostty - Ghostty terminal manager for Raycast; browse projects, manage workspaces
 - [vsc-ext-coding-time-tracker](https://github.com/twentyTwo/vsc-ext-coding-time-tracker) - VS Code extension for tracking and visualizing coding time
 - [extensions](https://github.com/yassinezaanouni/extensions) - Raycast extensions collection
@@ -190,6 +181,14 @@ Building products and shipping fast. Currently focused on video tech and develop
 - WebApplication1 - C# web application
 - Data Science - Data science coursework
 - Prolog - Logic programming projects
+
+---
+
+## Education
+
+- **Master's in Software Engineering** · ISSAT Sousse
+- **Bachelor's in Software Engineering** (Laureate) · ESSTHS
+- **CS50x** · Harvard University (edX)
 
 ---
 
