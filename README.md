@@ -29,8 +29,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 ## Work Experience
 
 **MisPay**
-- Merchant panel serving 2,000+ merchants & 200K+ users. Built design system with 50+ components.
-- Fintech payment platform at a major Saudi Arabian company (NestJS, PostgreSQL, microservices)
+- Fintech payment platform in Saudi Arabia. Built merchant panel serving 2,000+ merchants & 200K+ users, along with a design system of 50+ components.
 
 **Velocity**
 - Athlete cognitive training app (React Native). 90% test coverage, 20+ custom animations.
