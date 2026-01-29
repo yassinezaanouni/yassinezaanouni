@@ -1,6 +1,6 @@
-# Hi, I'm Yassine
+# Hi, I'm Yassine 👋
 
-Remote | SaaS Builder | Running Zaanix Studio
+🌍 Remote | 🛠️ SaaS Builder | 🚀 Running Zaanix Studio
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -19,10 +19,10 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Current Projects
 
-- [Reelfolio](https://reelfolio.io) - Video portfolio platform for creatives to generate showreels and case study videos with Remotion
-- [Addcn](https://addcn.dev) - Platform for creating and serving custom shadcn/ui registry components. Install with `npx shadcn@latest add` ([open source](https://github.com/yassinezaanouni/addcn))
-- XScout - Twitter/X reply workstation for monitoring and managing tweet replies
-- Sharik - Turborepo monorepo starter with Tailwind CSS v4, shared design system, and React components
+- [Reelfolio](https://reelfolio.io) - Turn screenshots and clips into professional video portfolios. Upload, pick a template, export as MP4. Built with Remotion.
+- [Addcn](https://addcn.dev) - Build and share your own shadcn registry. Turn React components into installable packages with `npx shadcn@latest add`. ([open source](https://github.com/yassinezaanouni/addcn))
+- XScout - Twitter/X reply workstation. Monitor mentions, manage replies, and engage with your audience from one dashboard.
+- Sharik - Turborepo monorepo starter with Tailwind CSS v4, shared design system, and UI components. Ready for production.
 
 ---
 
