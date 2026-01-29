@@ -60,7 +60,7 @@
 - **[Echo](https://echo-nextjs-template.vercel.app/)** - Website template (Next.js)
 - **[Hive](https://hive-nextjs-template.vercel.app/)** - Website template (Astro & Next.js)
 - **[Lumen](https://lumen-nextjs-template.vercel.app/)** - Website template (Astro & Next.js)
-- **[Mainline](https://mainline-nextjs-template.vercel.app/)** - Website template (Astro & Next.js)
+- **[Mainline](https://mainline-nextjs-template.vercel.app/)** - Website template (Astro & Next.js) ([open source](https://github.com/shadcnblocks/mainline-nextjs-template), 250+ stars)
 - **[Plasma](https://plasma-nextjs-template.vercel.app/)** - Website template (Astro & Next.js)
 - **[Relative](https://relative-nextjs-template.vercel.app/)** - Website template (Astro & Next.js)
 - **[Scalar](https://scalar-nextjs-template.vercel.app/)** - Website template (Astro & Next.js)
