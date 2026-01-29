@@ -64,9 +64,9 @@ Building products and shipping fast. Currently focused on video tech and develop
 - Flitter Sales App - Sales application
 - FlitterUI - UI component library
 - Forest Admin - Admin dashboard
-- Harmonie - Harmonie platform
+- [Harmonie](https://flitter.fr/) - Harmonie platform
 - NessUI - UI library
-- Quote - Quote generator
+- [Quote](https://flitter.fr/) - Quote generator
 - Strapi CMS - Content management
 - [Charter](https://charter-nextjs-template.vercel.app/) - Website template (Astro & Next.js)
 - Echo - Website template (Next.js)
