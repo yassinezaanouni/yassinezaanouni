@@ -10,7 +10,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Current Projects
 
-- [Reelfolio](https://github.com/yassinezaanouni/reelfolio) - Portfolio platform for creatives to showcase projects, track deliverables, revenue, and client metrics
+- [Reelfolio](https://reelfolio.io) - Portfolio platform for creatives to showcase projects, track deliverables, revenue, and client metrics ([repo](https://github.com/yassinezaanouni/reelfolio-remotion))
 - Addcn - Multi-user platform for creating and serving custom shadcn/ui registry components
 - [XScout](https://github.com/yassinezaanouni/xscout) - Twitter reply workstation with AI-powered filtering for managing replies
 - [Sharik](https://github.com/yassinezaanouni/sharik) - Turborepo monorepo with Tailwind CSS v4, design system, web app, and React Native mobile
@@ -19,7 +19,7 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Work Experience
 
-- MisPay - Fintech payment platform at a major Saudi Arabian company (NestJS, PostgreSQL, microservices) [closed source]
+- MisPay - Fintech payment platform at a major Saudi Arabian company (NestJS, PostgreSQL, microservices)
 
 ---
 
@@ -36,33 +36,39 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ---
 
+## Innovant Studio
+
+- [Carthage Sky](https://gitlab.com/carthage-sky/frontend) - Luxury aircraft maintenance and VIP flight services website
+- [WH International](https://gitlab.com/wh-international/frontend) - Corporate website for trading and logistics company
+- [Samar Innovant](https://gitlab.com/samar-innovant/website) - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
+- [Donors](https://gitlab.com/wh-js/donors) - Donor management system
+- DrNahas - Dr. Nahas medical project
+
+---
+
 ## Freelance Work (Zaanix Studio)
 
-- Journey - Arabic content platform for audiobooks, e-books, and podcasts [closed source]
-- [Carthage Sky](https://gitlab.com/carthage-sky/frontend) - Luxury aircraft maintenance and VIP flight services website
-- Mustanad - Legal marketplace connecting lawyers with clients [closed source]
-- [WH International](https://gitlab.com/wh-international/frontend) - Corporate website for trading and logistics company
-- lata9la9 - Food delivery/ordering platform [closed source]
-- food-management - Food management system [closed source]
-- friday-frontend - Friday project frontend [closed source]
-- hugging-trade - Trading platform with Prisma, Clerk, Stripe integration [closed source]
-- swiss-photo-club - Photography club website [closed source]
-- [website](https://gitlab.com/samar-innovant/website) - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
-- [donors](https://gitlab.com/wh-js/donors) - Donor management system
-- elevate - Elevation/growth platform [closed source]
-- flitter - Social networking app [closed source]
+- Journey - Arabic content platform for audiobooks, e-books, and podcasts
+- Mustanad - Legal marketplace connecting lawyers with clients
+- lata9la9 - Food delivery/ordering platform
+- food-management - Food management system
+- friday-frontend - Friday project frontend
+- hugging-trade - Trading platform with Prisma, Clerk, Stripe integration
+- swiss-photo-club - Photography club website
+- elevate - Elevation/growth platform
+- flitter - Social networking app
 
 ---
 
 ## Upwork Projects
 
-- cytric - Client project [closed source]
-- seemas-test - Client test project [closed source]
-- vitaliy - Client project [closed source]
-- vynlox - Client project [closed source]
-- zero-static - Static site project [closed source]
-- Plasma_docs - Plasma documentation project [closed source]
-- facebook-marketplace-nationwide - Facebook Marketplace integration [closed source]
+- cytric - Client project
+- seemas-test - Client test project
+- vitaliy - Client project
+- vynlox - Client project
+- zero-static - Static site project
+- Plasma_docs - Plasma documentation project
+- facebook-marketplace-nationwide - Facebook Marketplace integration
 
 ---
 
@@ -77,8 +83,8 @@ Building products and shipping fast. Currently focused on video tech and develop
 - [shadcn-landing](https://github.com/yassinezaanouni/ui-shadcnlanding) - Landing page using shadcn/ui
 - [themes-view-transitions](https://github.com/yassinezaanouni/themes-view-transitions) - View Transitions API theme showcase
 - [ui-shadcnlanding](https://github.com/yassinezaanouni/ui-shadcnlanding) - UI landing page with view transitions
-- shadcn-baseui-starter-project - shadcn/ui with Base UI starter [closed source]
-- test-app-shadcn - Testing playground for shadcn/ui [closed source]
+- shadcn-baseui-starter-project - shadcn/ui with Base UI starter
+- test-app-shadcn - Testing playground for shadcn/ui
 - [buisness-map](https://github.com/yassinezaanouni/buisness-map) - Business mapping application
 - [social-video-downloader](https://github.com/yassinezaanouni/social-video-downloader) - Social media video downloading tool
 - [review-image-canvas-craft](https://github.com/yassinezaanouni/review-image-canvas-craft) - Image review and canvas manipulation tool
@@ -91,71 +97,31 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 - [Hotelna](https://github.com/heithemkacem/hotelna) - Hotel booking mobile app (Expo/React Native)
 - [Locasa](https://github.com/heithemkacem/locasa) - Casa rental mobile app (Expo)
-- my-expo-app - Expo React Native application [closed source]
-- Velocity-App-V2 - React Native mobile app with iOS and Android support [closed source]
-- Velocity-React-Native - React Native Velocity implementation [closed source]
+- my-expo-app - Expo React Native application
+- Velocity-App-V2 - React Native mobile app with iOS and Android support
+- Velocity-React-Native - React Native Velocity implementation
 
 ---
 
 ## WebXR & 3D (A-Frame)
 
-- A-Frame Test 1 - A-Frame VR/WebXR experimentation [closed source]
+- A-Frame Test 1 - A-Frame VR/WebXR experimentation
 - [aframe-mouse-dragndrop](https://github.com/extraymond/aframe-mouse-dragndrop) - A-Frame component for mouse drag-and-drop
 - [aframe-react](https://github.com/yassinezaanouni/aframe-react) - React + Vite project with A-Frame integration
-- aframe-rive - A-Frame with Rive animation integration [closed source]
-- learn-aframe - A-Frame learning experiments [closed source]
-- aframe-jase - A-Frame project [closed source]
-- aframe-projects - A-Frame projects collection [closed source]
-
----
-
-## Reelfolio Ecosystem
-
-- [reelfolio](https://github.com/yassinezaanouni/reelfolio) - Main portfolio platform
-- [reelfolio-remotion](https://github.com/yassinezaanouni/reelfolio-remotion) - Remotion video rendering version
-- reelfolio-revideo - ReVideo implementation [closed source]
-- reelfolio-revideo2 - ReVideo v2 [closed source]
-- reelfolio-test - Test version [closed source]
-- reelfolio-v2 - Version 2 [closed source]
-- reelfoliov3 - Version 3 [closed source]
-- reelfolio-final - Final production version [closed source]
-
----
-
-## Side Projects
-
-- [glisten-ai](https://github.com/a-trost/glisten-ai) - Dark Next.js site with Prismic, GSAP animations
-- nasa-api - NASA Near-Earth Objects data visualization [closed source]
-- Nasa's api - NASA API exploration [closed source]
+- aframe-rive - A-Frame with Rive animation integration
+- learn-aframe - A-Frame learning experiments
+- aframe-jase - A-Frame project
+- aframe-projects - A-Frame projects collection
 
 ---
 
 ## Velocity Projects
 
-- joystick - Joystick control implementation [closed source]
-- phone-controller - Phone controller interface [closed source]
-- p2p - Peer-to-peer communication [closed source]
-- webrtc-without-signaling-server - WebRTC P2P implementation [closed source]
-- tizen-phone - Samsung Tizen phone project [closed source]
-
----
-
-## Innovant Studio
-
-- DrNahas - Dr. Nahas project [closed source]
-- carthage-sky - Carthage Sky aviation project [closed source]
-
----
-
-## FAC Projects
-
-- app - FAC application [closed source]
-- ihm - Human-machine interface project [closed source]
-- issat-website - ISSAT website (Next.js, Convex, Clerk) [closed source]
-- issat-website-main - ISSAT website main version [closed source]
-- object-detection-pyton-opencv - Python OpenCV object detection [closed source]
-- symfony_exam - Symfony PHP exam project [closed source]
-- urbanStyle-master - Urban style e-commerce project [closed source]
+- joystick - Joystick control implementation
+- phone-controller - Phone controller interface
+- p2p - Peer-to-peer communication
+- webrtc-without-signaling-server - WebRTC P2P implementation
+- tizen-phone - Samsung Tizen phone project
 
 ---
 
@@ -163,49 +129,59 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 - [yassine-zaanouni-portfolio](https://github.com/YassineZn/yassine-zaanouni-portfolio) - Portfolio website v1
 - [yassine-zaanouni-portfolio-v1](https://github.com/yassinezaanouni/yassine-zaanouni-portfolio-v1) - Portfolio v1 iteration
-- yassine-zaanouni-portfolio-v2 - Portfolio website v2 [closed source]
+- yassine-zaanouni-portfolio-v2 - Portfolio website v2
 
 ---
 
 ## Hackathon
 
-- hackthgate-1st-hackathon-chat-with-youtube - Chat with YouTube content [closed source]
+- hackthgate-1st-hackathon-chat-with-youtube - Chat with YouTube content
 
 ---
 
 ## Experiments
 
-- form-builder - Dynamic form builder application [closed source]
-- Link-Sharing-App - URL/link sharing application [closed source]
-- svg-animations - SVG animation experiments [closed source]
-- my-playground - General experimentation playground [closed source]
-- rbk-challenge - RBK challenge submission [closed source]
-- karim-test - Testing project [closed source]
-- test-for-ahmed - Testing project [closed source]
-- test-use-link-status - Hook testing for link status [closed source]
+- form-builder - Dynamic form builder application
+- Link-Sharing-App - URL/link sharing application
+- svg-animations - SVG animation experiments
+- my-playground - General experimentation playground
+- rbk-challenge - RBK challenge submission
+- karim-test - Testing project
+- test-for-ahmed - Testing project
+- test-use-link-status - Hook testing for link status
 
 ---
 
-## University Projects (ISSAT)
+## Personal & Academic
 
-- whatsapp-clone-react-native - WhatsApp clone in React Native [closed source]
-- mybestlocations_flutter - Location-based Flutter app [closed source]
-- contacti - Contact management app [closed source]
-- WebApplication1 - C# web application [closed source]
-- Data Science - Data science coursework [closed source]
-- Prolog - Logic programming projects [closed source]
+- [glisten-ai](https://github.com/a-trost/glisten-ai) - Dark Next.js site with Prismic, GSAP animations
+- nasa-api - NASA Near-Earth Objects data visualization
+- Nasa's api - NASA API exploration
+- app - FAC application
+- ihm - Human-machine interface project
+- issat-website - ISSAT website (Next.js, Convex, Clerk)
+- issat-website-main - ISSAT website main version
+- object-detection-pyton-opencv - Python OpenCV object detection
+- symfony_exam - Symfony PHP exam project
+- urbanStyle-master - Urban style e-commerce project
+- whatsapp-clone-react-native - WhatsApp clone in React Native
+- mybestlocations_flutter - Location-based Flutter app
+- contacti - Contact management app
+- WebApplication1 - C# web application
+- Data Science - Data science coursework
+- Prolog - Logic programming projects
 
 ---
 
 ## Zaanix
 
-- people - People/team management project [closed source]
+- people - People/team management project
 
 ---
 
 ## Legacy
 
-- bbt-lighting - BBT Lighting project (GitLab-old) [closed source]
+- bbt-lighting - BBT Lighting project (GitLab-old)
 
 ---
 
