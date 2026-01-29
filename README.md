@@ -19,25 +19,10 @@ Building products and shipping fast. Currently focused on video tech and develop
 
 ## Work Experience
 
-- MisPay - Fintech payment platform at a major Saudi Arabian company (NestJS, PostgreSQL, microservices)
+**MisPay**
+- Fintech payment platform at a major Saudi Arabian company (NestJS, PostgreSQL, microservices)
 
----
-
-## Open Source
-
-- [automaker](https://github.com/AutoMaker-Org/automaker) - AI agent orchestration tool for agentic coding; direct AI agents instead of typing code
-- [ralph](https://github.com/snarktank/ralph) - Autonomous AI agent loop that runs until all PRD items complete
-- [railway-screenshot-api](https://github.com/yassinezaanouni/railway-screenshot-api) - High-performance screenshot API with browser pooling and batch processing
-- [cloudflare-screenshot-api](https://github.com/Hassanrkbiz/cloudflare-screenshot-api) - Production-ready screenshot API using Cloudflare Workers
-- ghostty - Ghostty terminal manager for Raycast; browse projects, manage workspaces
-- [21st](https://github.com/serafimcloud/21st) - Community registry for open-source React UI components (Tailwind CSS, Radix UI)
-- [vsc-ext-coding-time-tracker](https://github.com/twentyTwo/vsc-ext-coding-time-tracker) - VS Code extension for tracking and visualizing coding time
-- [extensions](https://github.com/yassinezaanouni/extensions) - Raycast extensions collection
-
----
-
-## Innovant Studio
-
+**Innovant Studio**
 - [Carthage Sky](https://gitlab.com/carthage-sky/frontend) - Luxury aircraft maintenance and VIP flight services website
 - [WH International](https://gitlab.com/wh-international/frontend) - Corporate website for trading and logistics company
 - [Samar Innovant](https://gitlab.com/samar-innovant/website) - Multi-featured Next.js app (Sanity CMS, Stripe, Supabase)
@@ -45,6 +30,33 @@ Building products and shipping fast. Currently focused on video tech and develop
 - DrNahas - Dr. Nahas medical project
 - Journey - Arabic content platform for audiobooks, e-books, and podcasts
 - Mustanad - Legal marketplace connecting lawyers with clients
+
+**Velocity**
+- joystick - Joystick control implementation
+- phone-controller - Phone controller interface
+- p2p - Peer-to-peer communication
+- webrtc-without-signaling-server - WebRTC P2P implementation
+- tizen-phone - Samsung Tizen phone project
+- my-expo-app - Expo React Native application
+- Velocity-App-V2 - React Native mobile app with iOS and Android support
+- Velocity-React-Native - React Native Velocity implementation
+- A-Frame Test 1 - A-Frame VR/WebXR experimentation
+- [aframe-mouse-dragndrop](https://github.com/extraymond/aframe-mouse-dragndrop) - A-Frame component for mouse drag-and-drop
+- [aframe-react](https://github.com/yassinezaanouni/aframe-react) - React + Vite project with A-Frame integration
+- aframe-rive - A-Frame with Rive animation integration
+- learn-aframe - A-Frame learning experiments
+- aframe-jase - A-Frame project
+- aframe-projects - A-Frame projects collection
+
+---
+
+## Open Source
+
+- [railway-screenshot-api](https://github.com/yassinezaanouni/railway-screenshot-api) - High-performance screenshot API with browser pooling and batch processing
+- [cloudflare-screenshot-api](https://github.com/Hassanrkbiz/cloudflare-screenshot-api) - Production-ready screenshot API using Cloudflare Workers
+- ghostty - Ghostty terminal manager for Raycast; browse projects, manage workspaces
+- [vsc-ext-coding-time-tracker](https://github.com/twentyTwo/vsc-ext-coding-time-tracker) - VS Code extension for tracking and visualizing coding time
+- [extensions](https://github.com/yassinezaanouni/extensions) - Raycast extensions collection
 
 ---
 
@@ -113,26 +125,6 @@ Building products and shipping fast. Currently focused on video tech and develop
 - [review-image-canvas-craft](https://github.com/yassinezaanouni/review-image-canvas-craft) - Image review and canvas manipulation tool
 - [my-ui](https://github.com/yassinezaanouni/my-ui) - Micro-animations UI project
 - [template-next-app-dir](https://github.com/remotion-dev/template-next-app-dir) - Next.js template for Remotion
-
----
-
-## Velocity Projects
-
-- joystick - Joystick control implementation
-- phone-controller - Phone controller interface
-- p2p - Peer-to-peer communication
-- webrtc-without-signaling-server - WebRTC P2P implementation
-- tizen-phone - Samsung Tizen phone project
-- my-expo-app - Expo React Native application
-- Velocity-App-V2 - React Native mobile app with iOS and Android support
-- Velocity-React-Native - React Native Velocity implementation
-- A-Frame Test 1 - A-Frame VR/WebXR experimentation
-- [aframe-mouse-dragndrop](https://github.com/extraymond/aframe-mouse-dragndrop) - A-Frame component for mouse drag-and-drop
-- [aframe-react](https://github.com/yassinezaanouni/aframe-react) - React + Vite project with A-Frame integration
-- aframe-rive - A-Frame with Rive animation integration
-- learn-aframe - A-Frame learning experiments
-- aframe-jase - A-Frame project
-- aframe-projects - A-Frame projects collection
 
 ---
 
