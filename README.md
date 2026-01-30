@@ -22,6 +22,8 @@
 - **XScout** - Twitter/X reply workstation. Monitor mentions, manage replies, and engage with your audience from one dashboard.
 - **Sharik** - Turborepo monorepo starter with Next.js, NestJS, React Native, and shared design system.
 - **[ShadcnBlocks](https://www.shadcnblocks.com/)** - Building templates for the biggest shadcn & Tailwind CSS component library.
+- **shadcn-landing** - Landing page for shadcn/ui blocks & templates (COMING SOON)
+- **ui-shadcnlanding** - Premium components & view transitions 
 
 ---
 
@@ -88,9 +90,7 @@
 - **[resume-fast](https://github.com/yassinezaanouni/resume-fast)** - Fast resume builder application
 - **apple-iphone15** - iPhone 15 product showcase
 - **[apple-iphone16](https://github.com/yassinezaanouni/apple-iphone16)** - iPhone 16 product showcase
-- **shadcn-landing** - Landing page using shadcn/ui
 - **[themes-view-transitions](https://github.com/yassinezaanouni/themes-view-transitions)** - View Transitions API theme showcase
-- **ui-shadcnlanding** - UI landing page with view transitions
 - **shadcn-baseui-starter-project** - shadcn/ui with Base UI starter
 - **test-app-shadcn** - Testing playground for shadcn/ui
 - **buisness-map** - Business mapping application
