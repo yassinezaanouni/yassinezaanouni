@@ -30,6 +30,7 @@
 ## Open Source
 
 - **[Meridian](https://github.com/yassinezaanouni/meridian)** - macOS menu bar app for finding the best time to meet across timezones. Built with SwiftUI.
+- **[Crunch](https://github.com/yassinezaanouni/crunch)** - macOS menu bar image converter. Drag & drop to convert to WebP, JPEG, PNG, or HEIC. Built with SwiftUI.
 - **[Mainline](https://github.com/shadcnblocks/mainline-nextjs-template)** - Next.js website template with 250+ stars
 - **[railway-screenshot-api](https://github.com/yassinezaanouni/railway-screenshot-api)** - High-performance screenshot API with browser pooling and batch processing
 - **ghostty** - Ghostty terminal manager for Raycast; browse projects, manage workspaces
